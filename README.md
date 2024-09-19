@@ -7,5 +7,5 @@ You can make your server stand from others.
 
 > tip click on any containing element to open it in your browser.
 
-![](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/Alangopro/ServerCreators&type=watch|star|)
+[![->](https://img.shields.io/github/stars/1N3/Findsploit.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Alangopro/ServerCreators)
 > Did i help you with making your Server? if yes make sure to star the project so other people can see it!
