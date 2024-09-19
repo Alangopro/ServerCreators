@@ -70,3 +70,4 @@
 70. ➔︰Rules
 71. ┇・Rules
 72. ┗Rules┑
+73. 「📜」Rules
