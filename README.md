@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/26c3a4b2-c0f2-4c21-a65b-da6e1e786317)# ✨ ServerCreators
+✨ ServerCreators
 An free to use pack for making Discord Servers
 <br><br>
 
