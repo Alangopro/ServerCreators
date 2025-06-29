@@ -1,3 +1,10 @@
+# Channel Symbols for Discord
+
+Stylish Unicode/text art for naming your server channels (like “Rules”).
+Copy your favorite and paste into Discord!
+
+---
+```
 1. 📜┋ Rules
 2. 📜┇ Rules
 3. 📜║ Rules
@@ -71,9 +78,9 @@
 71. ┇・Rules
 72. ┗Rules┑
 73. 「📜」Rules
+74. ┍💬┓
+75. ︱💡︱
+76. ┖📖┚
+```
 
-    # as a combo
 
-75. ┍💬┓
-76. ︱💡︱
-77. ┖📖┚
