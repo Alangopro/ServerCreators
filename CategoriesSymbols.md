@@ -1,3 +1,10 @@
+# Category Symbols for Discord
+
+Creative Unicode/text art for naming your server categories.
+Copy and use any style you like!
+
+---
+```
 1. |─────────[ 📃 ]─────────|
 2. ――――[ Info ]――――
 3. ─────────< 📃 >─────────
@@ -35,3 +42,4 @@
 35. ・📃・Info
 36.⁃══════⁃ 📃 ⁃══════⁃
 37. INFO ❯
+```
