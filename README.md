@@ -1,46 +1,34 @@
-# ✨ ServerCreators
+# <img width="1920" height="686" src="https://github.com/user-attachments/assets/68cab3c7-7f1d-468d-b125-910dff7f1007" />
 
-A free-to-use pack of copy-paste resources for making your Discord server stand out!  
-Includes stylish channel/category symbols and links to useful generators.
+# ServerCreators
+A free-to-use pack of copy-paste resources for making your Discord server stand out.
 
----
+![License: MIT](https://img.shields.io/badge/License-MIT-%23000000.svg?logo=spdx&logoColor=pink&labelColor=000000&color=000000&style=for-the-badge)
+![Code size](https://img.shields.io/github/languages/code-size/Alangopro/ServerCreators?logo=github&labelColor=000000&logoColor=pink&color=000000&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Alangopro/ServerCreators?logo=github&logoColor=pink&labelColor=000000&color=000000&style=for-the-badge)
 
-## What is this?
 
-ServerCreators is a collection of:
-- **Category & Channel symbols:** unicode art and creative text for your Discord server structure.
-- **Font generators:** online tools to create fancy text for Discord.
-- **Embed generators:** online tools to make Discord embeds without coding.
+## Contents
 
-These resources are mainly meant for quick copy-pasting without involving any coding!
+| Resource | Description |
+| :--- | :--- |
+| [Category Symbols](CategoriesSymbols.md) | Unicode layouts for server categories |
+| [Channel Symbols](ChannelSymbols.md) | Stylish symbols for server channels |
+| [Font Generators](FontGenerators.md) | Web tools for fancy Discord fonts |
+| [Embed Generators](EmbedGenerators.md) | Tools to make embeds without coding |
 
----
+## How to use
 
-## Current contents
+1. Browse the `.md` files above.
+2. Copy any style or link and use it in your server.
 
-- [Category Symbols](CategoriesSymbols.md) - Stylish text/Unicode for server categories
-- [Channel symbols](ChannelSymbols.md) - Stylish text/Unicode for server channels (like “Rules”)
-- [Font generators](FontGenerators.md) - Web tools to create fancy fonts for Discord
-- [Embed generators](EmbedGenerators.md) - Web tools to make Discord embeds
+## Contributing
 
----
+Contributions are welcome. If you have updates, open a pull request.
 
-## How to use?
+This project is licensed under the ``MIT License``.
 
-1. Simply browse the any of the `.md` files above.
-2. Copy any style or link you like and use it however u want!
 
----
 
-## Support
-[![->](https://img.shields.io/github/stars/Alangopro/ServerCreators.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Alangopro/ServerCreators)
 
-If this pack helped you, please consider starring the project!  
-This makes it so other people can see this repository and use it in their servers! 
-
----
-
-## License
-
-This pack is provided under the MIT License. See [LICENSE](LICENSE) for details,
-even tho its under MIt license u are allowed to push updates into this repository.
+[![Star History Chart](https://api.star-history.com/svg?repos=Alangopro/ServerCreators&type=date&legend=top-left)](https://www.star-history.com/?spm=a2c6h.12873639.article-detail.7.7b9d7fabjNxTRk#Alangopro/ServerCreators&type=date&legend=top-left)
